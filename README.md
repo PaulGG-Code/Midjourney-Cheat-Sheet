@@ -69,3 +69,6 @@ Here are some common styles of image generation and their characteristics:
 | diagramatic drawming | A plan, sketch, drawing, or outline designed to demonstrate or explain how something works or to clarify the relationship between the parts of a whole. |
 | watercolor sketch | watercolor work that's completed quickly, with a loose, informal style |
 | stained glass window | glass that has been coloured and cut into various shapes to form pictures or patterns, used especially in church windows |
+| patchwork collage | a layering fabric for the design as an art style quilt |
+| op art | Or Optical art, it use shapes, colours and patterns in special ways to create images that look as if they are moving or blurring. |
+| colorful | having much or varied colour; bright |
