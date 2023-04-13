@@ -62,3 +62,10 @@ Here are some common styles of image generation and their characteristics:
 | tilt-shift | Like "depth of field," but from above or with high angle |
 | motion-blur | Speed lines. May render as if wind is blowing |
 | 35mm film | More vibrant colors, but muted saturation, detailed with additional foreground and/or background elements |
+| SynthWave | An electronic music microgenre that is based predominantly on the music associated with action, science-fiction, and horror film soundtracks of the 1980s |
+| Duotone |  Illustration made from a single original with two different colours at different screen angles |
+| 1990s point and click 16bit adventure game | An amazing 16 bit game 1990's style |
+| 32-bit Isometric | 32-bit pixel art |
+| Diagramatic Drawming | A plan, sketch, drawing, or outline designed to demonstrate or explain how something works or to clarify the relationship between the parts of a whole. |
+| Watercolor Sketch | watercolor work that's completed quickly, with a loose, informal style |
+| Stained Glass Window | glass that has been coloured and cut into various shapes to form pictures or patterns, used especially in church windows |
