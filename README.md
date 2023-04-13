@@ -102,13 +102,14 @@ Here are some common styles of image generation and their characteristics:
 
   - Subject: Albert Einstein
   - Scene: A laboratory filled with scientific equipment
-  - Details: Einstein is wearing a lab coat and holding a test tube, peering intently at the liquid inside. There are beakers, flasks, and other scientific equipment scattered around the room, along with books and papers. A   - chalkboard in the background is covered in equations and diagrams.
-  - Camera: Canon EOS R6 paired with a Canon EF 85mm f/1.2L II USM lens
-  - Settings: Aperture of f/2.8, ISO 800, shutter speed of 1/250 sec
-  - Aspect Ratio: 4:3
-  - Quality and Visual Settings: --q 3.0 --v 4
+  - Details: `Einstein is wearing a lab coat and holding a test tube, peering intently at the liquid inside. There are beakers, flasks, and other scientific equipment scattered around the room, along with books and papers. A   - chalkboard in the background is covered in equations and diagrams.`
+  - Camera: `Canon EOS R6 paired with a Canon EF 85mm f/1.2L II USM lens`
+  - Settings: `Aperture of f/2.8, ISO 800, shutter speed of 1/250 sec`
+  - Aspect Ratio: `4:3`
+  - Quality and Visual Settings: `--q 3.0 --v 4`
 
-These examples demonstrate how the midjourney AI image generator can be used to bring to life unique and imaginative visions. By following the instructions and carefully specifying the details, you can create stunning and personalized images that capture your subject's spirit and energy.
+
+~ These examples demonstrate how the midjourney AI image generator can be used to bring to life unique and imaginative visions. By following the instructions and carefully specifying the details, you can create stunning and personalized images that capture your subject's spirit and energy.
 
 
 
