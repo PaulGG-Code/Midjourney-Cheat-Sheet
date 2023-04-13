@@ -1,5 +1,7 @@
 # Midjourney-Cheat-Sheet
 
+![abracadabra_Midjourney_is_an_incredible_AI-powered_image_genera_58b3d603-6d5d-40f6-99fc-c3616c76834f](https://user-images.githubusercontent.com/34073221/231814743-f51687fa-458a-4005-94bd-f300ec4e3f10.png)
+
 ## Midjourney Parameter List Cheatsheet
 
 ### Basic Parameters
