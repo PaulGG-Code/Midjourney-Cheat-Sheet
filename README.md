@@ -39,7 +39,7 @@ Other Parameters
     --iw: Sets image prompt weight relative to text weight. The default value is --iw 0.25.
     --sameseed: Seed values create a single large random noise field applied across all images in the initial grid. When --sameseed is specified, all images
 
-Image Generation Cheatsheet
+### Image Generation Cheatsheet
 
 Here are some common styles of image generation and their characteristics:
 
